@@ -1,0 +1,11 @@
+Model Information:
+* title:	MOMUS Park - CC0 Asset Pack
+* source:	https://sketchfab.com/3d-models/momus-park-cc0-asset-pack-5b40d57eed3741e598a8cc1e695289a0
+* author:	Polygonal Mind (https://sketchfab.com/polygonalmind)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MOMUS Park - CC0 Asset Pack" (https://sketchfab.com/3d-models/momus-park-cc0-asset-pack-5b40d57eed3741e598a8cc1e695289a0) by Polygonal Mind (https://sketchfab.com/polygonalmind) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
